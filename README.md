@@ -21,7 +21,7 @@ Edit the list below:
 1. Joi Best (@jbest002) - "Finite Element Modeling Driven by Health Care and Aerospace Applications", Fotios Drakopoulos, 2017, https://digitalcommons.odu.edu/computerscience_etds/29/
 1. Richard Pates (@rpate027) - "Investigating Emerging Security Threats in Clouds and Data Centers", Xing Gao, College of William and Mary - Arts & Sciences, 2018, https://scholarworks.wm.edu/etd/1550153840/
 1. Evan Savaria (@esavaria) - "Modeling and Extracting Information about Cybersecurity Events from Text", Satyapanich Taneeya, University of Maryland, 2019, https://search-proquest-com.proxy.lib.odu.edu/docview/2377288862?accountid=12967
-
+1. Xiaoqin Liang(@Crystalwish1125) - "Methods and Systems for Understanding Large-Scale Internet Threats", Paul James Pearce, 2018, https://escholarship.org/uc/item/7fz45409
 
 
 ## Scheduling
@@ -63,7 +63,7 @@ Thurs, Apr 16
 
 Tues, Apr 21
 
-1. 
+1. Xiaoqin Liang(@Crystalwish1125) - "Methods and Systems for Understanding Large-Scale Internet Threats", Paul James Pearce, 2018, https://escholarship.org/uc/item/7fz45409
 2. 
 
 Thurs, Apr 23
