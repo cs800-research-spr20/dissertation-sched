@@ -6,13 +6,17 @@
 
 *I would encourage you to read the pages linked above so that you understand the process.  A walk-through of the steps is available at [fork-PR-steps.md](fork-PR-steps.md)*
 
+**Updates (Mar 18, 2020)**
+* Since we are online for the rest of the semester, we will no longer be using the in-class presentation schedule. (And I have removed that section below.) All presentations are due by **Tues, Apr 14 at 5pm**.
+* I will post here, on Piazza, and on our class schedule a document with the new procedure for creating and submitting your presentation.
+
 ## Dissertation Selection
 
 I want a numbered list of student name, GitHub username, dissertation title, author, year, URL.  Your line should look something like:
 
 Michele Weigle (@weiglemc) - "Providing Location Security in Vehicular Networks", Gongjun Yan, 2010, https://digitalcommons.odu.edu/computerscience_etds/5
 
-Edit the list below:
+Edit the list below (we have 17 students):
 
 1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 1. Himarsha Jayanetti (@himarshaj) - "Using Web Archives to Enrich the Live Web Experience Through Storytelling", Yasmin AlNoamany, 2016, https://digitalcommons.odu.edu/computerscience_etds/13/
