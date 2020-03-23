@@ -28,4 +28,4 @@ Edit the list below (we have 17 students):
 1. Evan Savaria (@esavaria) - "Modeling and Extracting Information about Cybersecurity Events from Text", Satyapanich Taneeya, University of Maryland, 2019, https://search-proquest-com.proxy.lib.odu.edu/docview/2377288862?accountid=12967
 1. Xiaoqin Liang(@Crystalwish1125) - "Methods and Systems for Understanding Large-Scale Internet Threats", Paul James Pearce, 2018, https://escholarship.org/uc/item/7fz45409
 1. Sanjeeva Reddy Dodlapati (@SanjeevaRDodlapati) - "Machine Learning Approaches for Phenotype Refinement to Improve Genetic Association Analysis" Jiangwen Sun, 2015, https://opencommons.uconn.edu/dissertations/791/ 
-
+1. Bhanuka Mahanama (@mahanama94) - Deep Ceullular Recurrent Neural Architecture for Efficient Time-Series Data Processing, Lasitha S. Vidyaratne, 2019, [In Press]
