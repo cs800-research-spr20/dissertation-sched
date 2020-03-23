@@ -9,6 +9,7 @@
 **Updates (Mar 18, 2020)**
 * Since we are online for the rest of the semester, we will no longer be using the in-class presentation schedule. (And I have removed that section below.) All presentations are due by **Tues, Apr 14 at 5pm**.
 * I will post here, on Piazza, and on our class schedule a document with the new procedure for creating and submitting your presentation.
+* Dissertation presentation procedure: https://github.com/cs800-research-spr20/assignments/blob/master/Dissertation.md
 
 ## Dissertation Selection
 
