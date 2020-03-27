@@ -19,7 +19,7 @@ Edit the list below:
 1. Ivan Makohon (@IvanM08106184) - "IMPROVING STRUCTURAL FEATURES PREDICTION IN PROTEIN STRUCTURE MODELING", Ashraf Yaseen, 2014, https://digitalcommons.odu.edu/computerscience_etds/68/
 1. Travis Reid (@treid003) - "Scripts in a Frame: A Framework for Archiving Deferred Representations", Justin F. Brunelle, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/
 1. Joi Best (@jbest002) - "Finite Element Modeling Driven by Health Care and Aerospace Applications", Fotios Drakopoulos, 2017, https://digitalcommons.odu.edu/computerscience_etds/29/
-
+1. Tareq Alghamdi (@ Tareqal) - "QOS REPRESENTATION, NEGOTIATION AND ASSURANCE IN CLOUD SERVICES ", XIANRONG ZHENG, 2014 , https://qspace.library.queensu.ca/handle/1974/8635 
 ## Scheduling
 
 Once you have selected a dissertation, you may choose a date to present.  To choose a date, copy your line from the selection list above to your chosen date.  
