@@ -31,6 +31,5 @@ Edit the list below (we have 17 students):
 1. Bhanuka Mahanama (@mahanama94) - Deep Ceullular Recurrent Neural Architecture for Efficient Time-Series Data Processing, Lasitha S. Vidyaratne, 2019, [In Press]
 1. Muntabir Hasan Choudhury (@choudhurym) - "Scene Text Understanding in Natural Images with Convolutional Neural Networks", Dafang He, 2019, https://etda.libraries.psu.edu/catalog/16559duh188 
 1. Ioannis Sakiotis (@isaki001) - "Efficient Machine Learning Approach for Optimizing Scientific Computing Applications on Emerging HPC Architectures", Kamesh Arumugam Karunanithi, 2017, https://digitalcommons.odu.edu/computerscience_etds/33/  
-
 1. Mahsa Sharifi (@Mahsa1396) - "EFFICIENT MACHINE LEARNING APPROACH FOR OPTIMIZING SCIENTIFIC COMPUTING APPLICATIONS ON EMERGING HPC ARCHITECTURES", Kamesh Arumugam Karunanithi, 2017, https://digitalcommons.odu.edu/computerscience_etds/33/  
-
+1. Tareq Alghamdi (@ Tareqal) - "QOS REPRESENTATION, NEGOTIATION AND ASSURANCE IN CLOUD SERVICES ", XIANRONG ZHENG, 2014 , https://qspace.library.queensu.ca/handle/1974/8635 
