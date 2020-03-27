@@ -33,4 +33,4 @@ Edit the list below (we have 17 students):
 1. Ioannis Sakiotis (@isaki001) - "Efficient Machine Learning Approach for Optimizing Scientific Computing Applications on Emerging HPC Architectures", Kamesh Arumugam Karunanithi, 2017, https://digitalcommons.odu.edu/computerscience_etds/33/  
 
 1. Mahsa Sharifi (@Mahsa1396) - "EFFICIENT MACHINE LEARNING APPROACH FOR OPTIMIZING SCIENTIFIC COMPUTING APPLICATIONS ON EMERGING HPC ARCHITECTURES", Kamesh Arumugam Karunanithi, 2017, https://digitalcommons.odu.edu/computerscience_etds/33/  
-
+1. Morteza Mohammady Gharasuie (@mmoha014) - "Enabling Data-Driven Optimization of Quality of Experience in Internet Applications", Junchen Jiang, 2017.
