@@ -34,4 +34,4 @@ Edit the list below (we have 17 students):
 1. Mahsa Sharifi (@Mahsa1396) - "EFFICIENT MACHINE LEARNING APPROACH FOR OPTIMIZING SCIENTIFIC COMPUTING APPLICATIONS ON EMERGING HPC ARCHITECTURES", Kamesh Arumugam Karunanithi, 2017, https://digitalcommons.odu.edu/computerscience_etds/33/  
 1. Tareq Alghamdi (@ Tareqal) - "QOS REPRESENTATION, NEGOTIATION AND ASSURANCE IN CLOUD SERVICES ", XIANRONG ZHENG, 2014 , https://qspace.library.queensu.ca/handle/1974/8635 
 1. Morteza Mohammady Gharasuie (@mmoha014) - "Enabling Data-Driven Optimization of Quality of Experience in Internet Applications", Junchen Jian, 2017, https://www.cs.cmu.edu/~junchenj/junchenj_scs_2017.pdf
-1. Mohammed Nauman Siddique (@naumansiddiqui4) - "LAZY PRESERVATION: RECONSTRUCTING WEBSITES FROM THE WEB INFRASTRUCTURE", Fran McCown, 2007, https://digitalcommons.odu.edu/computerscience_etds/21/
+1. Mohammed Nauman Siddique (@naumansiddiqui4) - "LAZY PRESERVATION: RECONSTRUCTING WEBSITES FROM THE WEB INFRASTRUCTURE", Frank McCown, 2007, https://digitalcommons.odu.edu/computerscience_etds/21/
