@@ -35,3 +35,4 @@ Edit the list below (we have 17 students):
 1. Tareq Alghamdi (@ Tareqal) - "QOS REPRESENTATION, NEGOTIATION AND ASSURANCE IN CLOUD SERVICES ", XIANRONG ZHENG, 2014 , https://qspace.library.queensu.ca/handle/1974/8635 
 1. Morteza Mohammady Gharasuie (@mmoha014) - "Enabling Data-Driven Optimization of Quality of Experience in Internet Applications", Junchen Jian, 2017, https://www.cs.cmu.edu/~junchenj/junchenj_scs_2017.pdf
 1. Mohammed Nauman Siddique (@naumansiddiqui4) - "LAZY PRESERVATION: RECONSTRUCTING WEBSITES FROM THE WEB INFRASTRUCTURE", Frank McCown, 2007, https://digitalcommons.odu.edu/computerscience_etds/21/
+1. James Ecker (@jim-ecker) - "Scripts in a Frame: A Framework for Archiving Deferred Representations", Justin F. Brunelle, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/
